@@ -13,12 +13,13 @@ Meus Projetos de Data Science
 **Links:**
 
 * [LinkedIn](https://www.linkedin.com/)
-* [Medium](https://www.medium.com/)
+* [Medium](https://www.medium.com/@glaucialr)
 
 
 ## Projetos:
 
-* **Analisando dados do Airbnb Lisboa:* 
-* **Analisandao a Violência no Rio de Janeiro:*
+
+* **Analisando dados do Airbnb Lisboa:* https://bit.ly/2BbPO3y
+* **Analisandao a Violência no Rio de Janeiro:* https://bit.ly/3fqTGwq
 
 

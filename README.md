@@ -12,7 +12,7 @@ Meus Projetos de Data Science
 
 **Links:**
 
-* [LinkedIn](https://www.linkedin.com/)
+* [LinkedIn](https://www.linkedin.com/in/glaucia-ribeiro-07a322142/)
 * [Medium](https://www.medium.com/@glaucialr)
 
 

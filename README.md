@@ -21,5 +21,6 @@ Meus Projetos de Data Science
 
 * **Analisando dados do Airbnb Lisboa:* https://bit.ly/2BbPO3y
 * **Analisandao a Violência no Rio de Janeiro:* https://bit.ly/3fqTGwq
+* **Analisando o Panorama do COVID-19 no Brasil e no Mundo:* https://bit.ly/30YgqQG
 
 
